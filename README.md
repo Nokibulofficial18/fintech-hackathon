@@ -155,12 +155,3 @@ Current test coverage includes:
 - Multi-provider transfer quote comparisons (wire fees vs. hidden FX markups)
 - Cash-flow runway calculation and liquidity warnings
 
----
-
-## 📅 Roadmap to Competition Submission (Oct 18, 2026)
-
-- [x] **Milestone 1**: Monorepo foundation, clean architecture separation, health probes, CORS, and initial test suite.
-- [x] **Milestone 2**: Core financial domain (multi-currency profile, 90-day cash flow forecast, funding gap analysis, transfer comparison, deterministic recommendation engine).
-- [x] **Milestone 3**: React + TypeScript modern fintech dashboard (KPI metrics, Recharts cash flow, comparison deck, AI copilot chat, action plan, data transparency audit).
-- [ ] **Milestone 4**: Exportable PDF/CSV financial action plan reports.
-- [ ] **Milestone 5**: Competition submission packaging and final demo presentation walk-through.
